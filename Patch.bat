@@ -33,3 +33,5 @@ move .\kmyuhkyuk-GamePanelHUD\GamePanelHUDGrenade.dll.new .\kmyuhkyuk-GamePanelH
 move .\kmyuhkyuk-GamePanelHUD\GamePanelHUDHit.dll.new .\kmyuhkyuk-GamePanelHUD\GamePanelHUDHit.dll
 move .\kmyuhkyuk-GamePanelHUD\GamePanelHUDLife.dll.new .\kmyuhkyuk-GamePanelHUD\GamePanelHUDLife.dll
 move .\kmyuhkyuk-GamePanelHUD\GamePanelHUDMag.dll.new .\kmyuhkyuk-GamePanelHUD\GamePanelHUDMag.dll
+
+pause
